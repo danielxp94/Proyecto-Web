@@ -1,0 +1,17 @@
+
+node_modules/
+
+/dist/
+
+.idea/
+.vscode/
+
+
+*.compiled
+
+
+package-lock.json
+npm-debug.log
+
+
+.sass-cache/
